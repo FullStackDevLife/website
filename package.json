@@ -1,11 +1,11 @@
 {
-  "name": "hafidziti.dev",
+  "name": "Andrei Jand",
   "description": "My personal website",
   "version": "1.0.0",
   "author": {
-    "name": "Hafid Ziti",
+    "name": "Andrei Jand",
     "email": "hello@hafidziti.dev",
-    "url": "https://hafidziti.dev"
+    "url": "https://fullstackdevlife.github.io/"
   },
   "keywords": [
     "portfolio",
